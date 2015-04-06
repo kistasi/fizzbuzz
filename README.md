@@ -1,7 +1,7 @@
 FizzBuzz
 ========
 
-I implemented the FizzBuzz game with 4 programming languages:
+The FizzBuzz game in some languages:
 
 * JavaSciprt (NodeJS)
 * PHP
