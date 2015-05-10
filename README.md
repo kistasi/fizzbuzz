@@ -3,7 +3,7 @@ FizzBuzz
 
 The FizzBuzz game in some languages:
 
-* JavaSciprt (NodeJS)
+* JavaScript (NodeJS)
 * PHP
 * Python
 * Ruby
