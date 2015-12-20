@@ -6,17 +6,12 @@ while ($number < $finish) {
 	$number++;
 
 	if ($number % 3 === 0 and $number % 5 === 0) {
-		echo "FizzBuzz!";
-		echo "\n";
-
+		echo "FizzBuzz!\n";
 	} else if ($number % 3 == 0) {
-		echo "Fizz!";
-		echo "\n";
+		echo "Fizz!\n";
 	} else if ($number % 5 == 0) {
-		echo "Buzz!";
-		echo "\n";
+		echo "Buzz!\n";
 	} else {
-		echo $number;
-		echo "\n";
+		echo "$number\n";
 	}
 }
