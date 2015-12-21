@@ -10,4 +10,4 @@ Some implementation of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) g
 * [Perl](https://www.perl.org/)
 * [Free Pascal](http://www.freepascal.org/)
 
-TODO: haskell, c, swift, shell, go, rust
+TODO: haskell, swift, shell, go, rust
