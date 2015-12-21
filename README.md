@@ -3,6 +3,7 @@ FizzBuzz
 
 Some implementation of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) game written in the following languages:
 
+* [C](https://en.wikipedia.org/wiki/C_(programming_language))
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 * [PHP](http://php.net/)
 * [Python](https://www.python.org/)
@@ -10,4 +11,9 @@ Some implementation of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) g
 * [Perl](https://www.perl.org/)
 * [Free Pascal](http://www.freepascal.org/)
 
-TODO: haskell, swift, shell, go, rust
+## TODO
+* [ ] [Haskell](https://www.haskell.org/)
+* [ ] [Swift](https://developer.apple.com/swift/)
+* [ ] [Shell](https://en.wikipedia.org/wiki/Unix_shell)
+* [ ] [Go](https://golang.org/)
+* [ ] [Rust](https://www.rust-lang.org/)
