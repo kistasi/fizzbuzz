@@ -8,3 +8,6 @@ Some implementation of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) g
 * [Python](https://www.python.org/)
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Perl](https://www.perl.org/)
+* [Free Pascal](http://www.freepascal.org/)
+
+TODO: haskell, c, swift, shell, go, rust
