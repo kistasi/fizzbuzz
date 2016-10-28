@@ -4,3 +4,6 @@ a.out
 # Free Pascal
 fizzbuzz
 fizzbuzz.o
+
+# Java
+fizzbuzz.class
