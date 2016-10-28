@@ -8,7 +8,6 @@ func main() {
 
   for (finish > number) {
     number++
-    //fmt.Println(number)
 
     if number % 3 == 0 && number % 5 == 0 {
       fmt.Println("FizzBuzz!");
