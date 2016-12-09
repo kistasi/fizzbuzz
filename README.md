@@ -4,6 +4,7 @@ FizzBuzz
 Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) game written in the following languages:
 
 * [C](https://en.wikipedia.org/wiki/C_(programming_language))
+* [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * [Python](https://www.python.org/)
 * [Ruby](https://www.ruby-lang.org/en/)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
@@ -13,3 +14,8 @@ Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 * [Swift](https://developer.apple.com/swift/)
 * [Java](https://www.java.com/en/)
 * [Go](https://golang.org/)
+* [R](https://www.r-project.org/)
+
+## TODO
+* C#
+* Objective-C
