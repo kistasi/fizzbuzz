@@ -5,6 +5,7 @@ Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 
 * [C](https://en.wikipedia.org/wiki/C_(programming_language))
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+* [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 * [Python](https://www.python.org/)
 * [Ruby](https://www.ruby-lang.org/en/)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
@@ -17,5 +18,4 @@ Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 * [R](https://www.r-project.org/)
 
 ## TODO
-* C#
 * Objective-C
