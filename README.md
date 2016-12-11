@@ -19,3 +19,10 @@ Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 
 ## TODO
 * Objective-C
+* F#
+* Visual Basic
+* Bash
+* Scala
+* Rust
+* Dart
+* Lua
