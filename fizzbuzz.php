@@ -1,11 +1,7 @@
 <?php
-$number = 0;
-$finish = 20;
 
-while ($number < $finish) {
-	$number++;
-
-	if ($number % 3 === 0 and $number % 5 === 0) {
+foreach (range(0, 1000) as $number) {
+	if ($number % 15 === 0) {
 		echo "FizzBuzz!\n";
 	} else if ($number % 3 == 0) {
 		echo "Fizz!\n";

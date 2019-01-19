@@ -1,10 +1,5 @@
-number = 0
-finish = 20
-
-while number < finish
-  number +=1
-
-  if number % 3 == 0 and number % 5 == 0
+(0..1000).each do | number |
+  if number % 15 == 0
     puts "FizzBuzz!"
   elsif number % 3 == 0
     puts "Fizz!"
