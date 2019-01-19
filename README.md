@@ -17,6 +17,7 @@ Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 * [Go](https://golang.org/)
 * [R](https://www.r-project.org/)
 * [Rust](https://www.rust-lang.org/)
+* [Lua](https://www.lua.org/)
 
 ## TODO
 * Objective-C
@@ -24,4 +25,3 @@ Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 * Bash
 * Scala
 * Dart
-* Lua
