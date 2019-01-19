@@ -16,12 +16,12 @@ Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 * [Java](https://www.java.com/en/)
 * [Go](https://golang.org/)
 * [R](https://www.r-project.org/)
+* [Rust](https://www.rust-lang.org/)
 
 ## TODO
 * Objective-C
 * F#
 * Bash
 * Scala
-* Rust
 * Dart
 * Lua
