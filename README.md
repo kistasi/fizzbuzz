@@ -18,10 +18,10 @@ Some implementations of the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 * [R](https://www.r-project.org/)
 * [Rust](https://www.rust-lang.org/)
 * [Lua](https://www.lua.org/)
+* [Dart](https://www.dartlang.org/)
 
 ## TODO
 * Objective-C
 * F#
 * Bash
 * Scala
-* Dart
