@@ -1,27 +1,17 @@
 #include <stdio.h>
 
-extern int number;
-extern int finish;
+void main() {
+  const int target = 200;
 
-int main(void)
-{
-    int number;
-    int finish;
-
-    number = 0;
-    finish = 20;
-
-    while (number < finish) {
-      number++;
-
-      if (number % 3 == 0 && number % 5 == 0) {
-        printf("FizzBuzz!\n");
-      } else if (number % 3 == 0){
-        printf("Fizz!\n");
-      } else if (number % 5 == 0){
-        printf("Buzz!\n");
-      } else {
-        printf("%d\n", number);
-      }
+  for (int count = 1; count < target; count++) {
+    if (count % 3 == 0 && count % 5 == 0) {
+      printf("FizzBuzz!\n");
+    } else if (count % 3 == 0){
+      printf("Fizz!\n");
+    } else if (count % 5 == 0){
+      printf("Buzz!\n");
+    } else {
+      printf("%d\n", count);
     }
+  }
 }

@@ -1,28 +1,17 @@
 #include <iostream>
 
-using namespace std;
+int main() {
+  const int target = 200;
 
-int main()
-{
-  int number;
-  int finish;
-
-  number = 0;
-  finish = 20;
-
-  while (number < finish) {
-    number++;
-
-    if (number % 3 == 0 && number % 5 == 0) {
-      cout << "FizzBuzz!" << endl;
-    } else if (number % 3 == 0){
-      cout << "Fizz!" << endl;
-    } else if (number % 5 == 0){
-      cout << "Buzz!" << endl;
+  for (int count = 1; count < target; count++) {
+    if (count % 3 == 0 && count % 5 == 0) {
+      std::cout << "FizzBuzz!" << std::endl;
+    } else if (count % 3 == 0){
+      std::cout << "Fizz!" << std::endl;
+    } else if (count % 5 == 0){
+      std::cout << "Buzz!" << std::endl;
     } else {
-      cout << number << endl;
+      std::cout << count << std::endl;
     }
   }
-
-  return 0;
 }
