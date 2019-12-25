@@ -1,16 +1,13 @@
-var number = 0;
-var finish = 20;
+const target = 200;
 
-while (number < finish) {
-	number++;
-
-	if (number % 3 == 0 && number % 5 == 0) {
+for (let count = 1; count < target; count++) {
+	if (count % 3 == 0 && count % 5 == 0) {
 		console.log('FizzBuzz!');
-	} else if (number % 3 == 0) {
+	} else if (count % 3 == 0) {
 		console.log('Fizz!');
-	} else if (number % 5 == 0) {
+	} else if (count % 5 == 0) {
 		console.log('Buzz!');
 	} else {
-		console.log(number);
+		console.log(count);
 	}
 }

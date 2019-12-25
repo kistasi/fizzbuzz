@@ -3,20 +3,17 @@ package main
 import "fmt"
 
 func main() {
-  var number = 0
-  const finish = 20
+  const target = 200
 
-  for (finish > number) {
-    number++
-
-    if number % 3 == 0 && number % 5 == 0 {
+  for count := 1; count < target; count++ {
+    if count % 3 == 0 && count % 5 == 0 {
       fmt.Println("FizzBuzz!");
-    } else if (number % 3 == 0) {
+    } else if (count % 3 == 0) {
       fmt.Println("Fizz!");
-    } else if (number % 5 == 0) {
+    } else if (count % 5 == 0) {
       fmt.Println("Buzz!");
     } else {
-      fmt.Println(number);
+      fmt.Println(count);
     }
   }
 }
